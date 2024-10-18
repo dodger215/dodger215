@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Kelvin Enos-Dzah]
 
 Welcome to my GitHub profile! I'm a passionate **Backend Developer** with experience in various technologies and a strong interest in **Machine Learning** and **Data Science**.
 
